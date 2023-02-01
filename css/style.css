@@ -1,1 +1,25 @@
 
+body {
+    background-image: url("/images/bday2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 10px;
+    padding: 20px 0;
+}
+
+@font-face {
+    font-family: Itim;
+    src: url("/fonts/Itim/Itim-Regular.ttf");
+}
+
+h1, h2{
+    font-family: Itim;
+    font-size: 2em;
+    color: aliceblue;
+}
+
+.img {
+    height: 40vh;
+    width: 100%;
+}
+
